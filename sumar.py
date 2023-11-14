@@ -7,4 +7,4 @@ NUMERO_2 = 10
 
 # Mostrar la suma usando la función y print
 RESULTADO = sumar_numeros(NUMERO_1, NUMERO_2)
-print(f"La suma de {NUMERO_1} y {NUMERO_2} es: {resultado}")
+print(f"La suma de {NUMERO_1} y {NUMERO_2} es: {RESULTADO}")
