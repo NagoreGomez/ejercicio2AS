@@ -6,5 +6,5 @@ NUMERO_1 = 5
 NUMERO_2 = 10
 
 # Mostrar la suma usando la función y print
-RESULTADO = sumar_numeros(numero1, numero2)
-print(f"La suma de {numero1} y {numero2} es: {resultado}")
+RESULTADO = sumar_numeros(NUMERO_1, NUMERO_2)
+print(f"La suma de {NUMERO_1} y {NUMERO_2} es: {resultado}")
